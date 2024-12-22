@@ -6,6 +6,9 @@ on:
     branches:
       - master  # Or use 'master' if that's your default branch
 
+permissions:
+  contents: write  # Grant write permission to the repository's contents
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
