@@ -20,7 +20,7 @@ body {
 
 /* Header styles */
 header {
-    background-color: #333;
+    background-color: purple;
     color: #fff;
     padding: 1rem 0;
 }
@@ -58,7 +58,7 @@ header nav ul li a:hover {
 /* About Section */
 #about {
     padding: 2rem 0;
-    background-color: #fff;
+    background-color: greenyellow;
 }
 
 #about h2 {
@@ -70,13 +70,13 @@ header nav ul li a:hover {
 #about p {
     text-align: center;
     font-size: 1.2rem;
-    color: #555;
+    color: black;
 }
 
 /* Projects Section */
 #projects {
     padding: 2rem 0;
-    background-color: #f9f9f9;
+    background-color: skyblue;
 }
 
 #projects h2 {
@@ -116,7 +116,7 @@ header nav ul li a:hover {
 /* Contact Section */
 #contact {
     padding: 2rem 0;
-    background-color: #fff;
+    background-color: palevioletred;
 }
 
 #contact h2 {
