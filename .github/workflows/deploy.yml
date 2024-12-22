@@ -21,4 +21,4 @@ jobs:
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}  # Automatically provided by GitHub Actions
         publish_dir: ./  # Publish the root directory (since you have only HTML/CSS files in the root)
-        publish_branch: deployed-branch  # Branch to deploy to (typically 'gh-pages')
+        publish_branch: gh-pages  # Branch to deploy to (typically 'gh-pages')
